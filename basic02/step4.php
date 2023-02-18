@@ -12,9 +12,9 @@ function isArmstrong($num) {
   }
 }
 $num1 = 153;
-$num2 = 370;
-$num3 = 371;
-$num4 = 407;
+$num2 = 430;
+$num3 = 921;
+$num4 = 777;
 echo "Is $num1 an Armstrong number? " . (isArmstrong($num1) ? "Yes" : "No") . "<br>";
 echo "Is $num2 an Armstrong number? " . (isArmstrong($num2) ? "Yes" : "No") . "<br>";
 echo "Is $num3 an Armstrong number? " . (isArmstrong($num3) ? "Yes" : "No") . "<br>";
